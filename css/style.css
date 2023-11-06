@@ -30,6 +30,13 @@ Margin e padding
     padding-bottom: 30px;
 }
 
+.margin-top-7{
+    margin-top: 7px;
+    color: white;
+}
+.text-align-end{
+    text-align: end;
+}
 
 /* 
 *******************************
@@ -48,13 +55,15 @@ header{
     margin: auto;
     width: 90%;
     height: 30px;
-    background-color: aqua;
     display: flex;
 }
 
 .col-50-header{
     width: 50%;
-    background-color: yellow;
+}
+
+#logo{
+    height: 30px;
 }
 
 /* 
