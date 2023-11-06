@@ -235,5 +235,11 @@ MAX 1200px
 */
 
 @media screen and (min-width: 1200px){
-    
+    .riga-header{
+        max-width: 1200px;
+    }
+
+    .riga-main{
+        max-width: 1200px;
+    }
 }
