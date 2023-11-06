@@ -213,7 +213,18 @@ PC 992px
 ******************************* 
 */
 @media screen and (min-width:992px){
-    
+    .riga-header{
+        width: 70%;
+    }
+
+    .riga-main{
+        width: 70%;
+    }
+
+    .col-main-strategic{
+        width: calc(100% / 2);
+    }
+
 }
 
 
